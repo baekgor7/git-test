@@ -4,5 +4,7 @@ public class Login {
 	
 	public Login() {}
 	
+	public void idCheck() {}
+	
 	public void logout() {}
 }
