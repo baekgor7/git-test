@@ -7,4 +7,6 @@ public class Login {
 	public void idCheck() {}
 	
 	public void logout() {}
+	
+	public void event() {}
 }
